@@ -42,7 +42,7 @@ main {
 }
 
 .form input:focus {
-  border-color: #4e75ff;
+  border-color: #052b14;
 }
 
 .form input::placeholder {
@@ -54,7 +54,7 @@ main {
   width: 91px;
   height: 40px;
   padding: 8px 16px;
-  background-color: #4e75ff;
+  background-color: green;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -67,7 +67,7 @@ main {
 }
 
 .form button:hover {
-  background-color: #6c8cff;
+  background-color: rgb(3, 66, 3);
 }
 
 /**/
@@ -128,7 +128,7 @@ main {
   display: block;
   margin: 24px auto;
   padding: 8px 16px;
-  background-color: #4e75ff;
+  background-color: green;
   color: #fff;
   border: none;
   border-radius: 8px;
@@ -144,7 +144,7 @@ main {
 }
 
 .load-more-button:hover {
-  background-color: #6c8cff;
+  background-color: rgb(2, 54, 2);
 }
 
 .is-hidden {
